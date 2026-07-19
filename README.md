@@ -1,4 +1,4 @@
-# AI-Driven Cyber Threat & Anomaly Detector 🛡️🤖
+# AI-Driven Cyber Threat & Anomaly Detector 
 
 Bu proje, sunucu loglarında meydana gelen siber saldırıları (DDoS, Veri Sızdırma vb.) **Isolation Forest** makine öğrenmesi algoritması kullanarak gerçek zamanlı olarak tespit eden uçtan uca bir anomali yakalama motorudur.
 
